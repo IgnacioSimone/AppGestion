@@ -1,0 +1,10 @@
+.App-header {
+  background: linear-gradient(to bottom, #d9cbb1, #b8a58a, #8f7d62); /* Fondo degradado estático */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
